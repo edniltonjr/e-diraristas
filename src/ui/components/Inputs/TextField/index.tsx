@@ -1,7 +1,4 @@
 import React from "react";
+import { TextFieldStyled } from "./style";
 
-const TextField = () => {
-  return <div>Texte</div>;
-};
-
-export default TextField;
+export default TextFieldStyled;
