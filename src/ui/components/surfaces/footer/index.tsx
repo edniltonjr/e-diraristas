@@ -9,10 +9,10 @@ const Footer = () => {
         <Box sx={{ maxWidth: "400px" }}>
           <FooterTitle>Quem somos</FooterTitle>
           <Typography variant={"body2"} sx={{ mt: 2 }}>
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aliquid
-            possimus eum nemo incidunt nam cumque. Accusantium repudiandae
-            architecto facere, odit eius consequuntur rem nam, sapiente
-            aspernatur maxime, repellendus autem. Ipsum.
+            E-Diaristas te ajuda a encontrar um profissional perfeito para
+            realizar a limpeza da sua casa. Garantimos a melhor profissional com
+            total segurança e praticidade! São milhares de clientes satisfeitos
+            por todo o país.
           </Typography>
         </Box>
 
